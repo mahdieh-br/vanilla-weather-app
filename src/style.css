@@ -68,11 +68,10 @@ li:first-letter {
 .weather-forecast {
   margin-top: 20px;
   text-align: center;
-  color: #878787;
+  color: #666565;
 }
 .weather-forecast-date {
   font-size: 16px;
-  opacity: 0.5;
 }
 .weather-forecast-temperature-min {
   opacity: 0.5;
